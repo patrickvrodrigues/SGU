@@ -24,7 +24,7 @@ O projeto está em formato de API básica, sem as métricas avançadas de segura
 
 <hr/>
 
-## Algumas imagens
+## 🎨 Algumas imagens
 
 <img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/1.PNG" />
 <img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/2.PNG" />
