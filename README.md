@@ -33,6 +33,9 @@ O projeto está em formato de API básica, sem as métricas avançadas de segura
 
 <hr/>
 
+## ⚠️ Atenção
+<p>Provavelmente você irá utilizar o arquivo "requeriments.txt" para fazer a instalação dos pacotes. Porém, caso esteja utilizando o Windows, provavelmente irá ocorrer um erro com a biblioteca "ldap3". Caso ocorra esse erro, no repositório tem um arquivo chamado "python_ldap-3.2.0-cp36-cp36m-win_amd64.whl", onde é o instalador manual para windows 64 bits. Poderá ser instalado através do comando "pip install python_ldap-3.2.0-cp36-cp36m-win_amd64".</p>
+
 ## 🔗 Links úteis
 
 <a href="https://techexpert.tips/pt-br/django-pt-br-2/django-autenticacao-ldap-no-diretorio-ativo/">https://techexpert.tips/pt-br/django-pt-br-2/django-autenticacao-ldap-no-diretorio-ativo/<a/>
