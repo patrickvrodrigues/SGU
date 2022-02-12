@@ -26,10 +26,10 @@ O projeto está em formato de API básica, sem as métricas avançadas de segura
 
 ## Algumas imagens
 
-<img src="/prints/1.png" />
-<img src="/prints/2.png" />
-<img src="/prints/3.png" />
-<img src="/prints/4.png" />
+<img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/1.PNG" />
+<img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/2.PNG" />
+<img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/3.PNG" />
+<img src="https://raw.githubusercontent.com/patrickvrodrigues/SGU/main/prints/4.PNG" />
 
 <hr/>
 
