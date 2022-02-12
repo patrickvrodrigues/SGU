@@ -33,7 +33,7 @@ O projeto está em formato de API básica, sem as métricas avançadas de segura
 
 <hr/>
 
-## Links úteis
+## 🔗 Links úteis
 
 <a href="https://techexpert.tips/pt-br/django-pt-br-2/django-autenticacao-ldap-no-diretorio-ativo/">https://techexpert.tips/pt-br/django-pt-br-2/django-autenticacao-ldap-no-diretorio-ativo/<a/>
 
